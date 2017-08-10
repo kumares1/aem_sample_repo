@@ -1,0 +1,6 @@
+com\org\test\gitsample\core\models\HelloWorldModel.class
+com\org\test\gitsample\core\servlets\SimpleServlet.class
+com\org\test\gitsample\core\package-info.class
+com\org\test\gitsample\core\listeners\SimpleResourceListener.class
+com\org\test\gitsample\core\filters\LoggingFilter.class
+com\org\test\gitsample\core\schedulers\SimpleScheduledTask.class
