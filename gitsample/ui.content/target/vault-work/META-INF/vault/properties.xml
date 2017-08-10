@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>GitSample - UI content</comment>
+<entry key="createdBy">kumares1</entry>
+<entry key="name">gitsample.ui.content</entry>
+<entry key="created">2017-08-10T16:00:53.025+0530</entry>
+<entry key="groupId">com.org.test</entry>
+<entry key="version">0.0.1-SNAPSHOT</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="group">GitSample Content Package</entry>
+<entry key="description">UI content package for GitSample</entry>
+<entry key="artifactId">gitsample.ui.content</entry>
+<entry key="path">/etc/packages/GitSample Content Package/gitsample.ui.content.zip</entry>
+</properties>
